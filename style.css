@@ -7,14 +7,22 @@ body {
     color: #333;
 }
 
-img {
+img#cover {
     width: 300px;
     border: solid 1px black;
     box-shadow: 10px 5px 5px grey;
 }
 
+img#qrcode {
+    text-align: center;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media (min-width: 700px) {
-    img {
+    img#cover {
         float: right;
         margin-left: 3em;
         margin-bottom: 2em;

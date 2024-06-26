@@ -46,6 +46,10 @@ div.authors>i {
     font-weight: normal;
 }
 
+div.DOI {
+    margin-top: 1em;
+}
+
 h1 {
     font-weight: normal;
 }

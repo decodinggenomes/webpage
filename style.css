@@ -65,7 +65,7 @@ p {
     text-align: justify;
 }
 
-ul {
+ul.hardcopy_list {
     margin-top: 0em;
 }
 
